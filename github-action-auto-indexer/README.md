@@ -2,7 +2,7 @@
 
 ---
 
-## About the Project
+## About Tool
 This project provides a complete automation solution for maintaining dynamic project lists in GitHub repositories. Instead of running scripts manually, this solution utilizes **GitHub Actions** to automatically detect, index, and update the list of folders in your `README.md` file whenever a new project is pushed to the repository.
 
 It is designed to create a "set it and forget it" workflow, ensuring your repository documentation is always synchronized with your actual folder structure without any human intervention.
