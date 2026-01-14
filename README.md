@@ -23,6 +23,7 @@ A versatile collection of Python
 <div id="list-start"></div>
 
 - [github-action-auto-indexer](./github-action-auto-indexer)
+- [markdown-code-embedder](./markdown-code-embedder)
 - [markdown-folder-indexer](./markdown-folder-indexer)
 
 <div id="list-end"></div>
