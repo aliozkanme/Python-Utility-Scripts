@@ -22,6 +22,7 @@ A versatile collection of Python
 
 <div id="list-start"></div>
 
+- [generate-folder-tree](./generate-folder-tree)
 - [github-action-auto-indexer](./github-action-auto-indexer)
 - [github-action-code-embedder](./github-action-code-embedder)
 - [github-action-patterns-sync](./github-action-patterns-sync)
