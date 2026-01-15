@@ -26,6 +26,7 @@ A versatile collection of Python
 - [github-action-code-embedder](./github-action-code-embedder)
 - [markdown-code-embedder](./markdown-code-embedder)
 - [markdown-folder-indexer](./markdown-folder-indexer)
+- [markdown-patterns-sync](./markdown-patterns-sync)
 
 <div id="list-end"></div>
 
