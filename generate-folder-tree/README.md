@@ -3,7 +3,6 @@
 
 # Generate Folder Tree
 
----
 
 ## About the Tool
 

@@ -3,7 +3,6 @@
 
 # Dizin Ağacı Oluşturucu
 
----
 
 ## Araç Hakkında
 
