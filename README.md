@@ -24,6 +24,7 @@ A versatile collection of Python
 
 - [github-action-auto-indexer](./github-action-auto-indexer)
 - [github-action-code-embedder](./github-action-code-embedder)
+- [github-action-patterns-sync](./github-action-patterns-sync)
 - [markdown-code-embedder](./markdown-code-embedder)
 - [markdown-folder-indexer](./markdown-folder-indexer)
 - [markdown-patterns-sync](./markdown-patterns-sync)
