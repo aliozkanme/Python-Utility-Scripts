@@ -5,12 +5,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey?style=flat-square&logo=creative-commons" alt="Creative Commons">
-  <img src="https://img.shields.io/badge/license-Apache%202.0-blue" alt="license"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Category-Utility_Scripts-orange?style=flat-square" alt="Utility Scripts">
+  <img src="https://img.shields.io/badge/Feature-Automation-green?style=flat-square" alt="Automation">
   <img src="https://img.shields.io/github/last-commit/aliozkanme/Python-Utility-Scripts" alt="last commit"/>
 </p>
 
 ---
-
 ## Introduction
 
 A versatile collection of Python
